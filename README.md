@@ -101,8 +101,8 @@ Built using Clean Architecture, MVVM, Coordinator pattern, Combine, and includes
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/GitHubRepoSearchApp.git
-   cd GitHubRepoSearchApp
+   git clone https://github.com/AhmadIsmail12/GithubRepositories.git
+   cd GithubRepository
 Open with Xcode:
 
 bash
