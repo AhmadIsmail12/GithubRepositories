@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in RepositoriesListViewModel.performSearch(query:page:):RepositoryListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NavigationRouter.push(_:):NavigationRouter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppCoordinator.buildInitialView():AppCoordinator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "showSplash">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RepositoriesListView.body.getter:RepositoriesListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.repositories">
+            </PersistentString>
+            <PersistentString
+               value = "viewModel.state">
+            </PersistentString>
+            <PersistentString
+               value = "viewModel.repositories.isEmpty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RepositoriesListViewModel.loadNextPage():RepositoriesListViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isFetching">
+            </PersistentString>
+            <PersistentString
+               value = "repositories.count">
+            </PersistentString>
+            <PersistentString
+               value = "totalCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SplashCoordinator.splashDidFinish():SplashCoordinator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.router">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
